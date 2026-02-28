@@ -26,9 +26,7 @@
   
 <p align="left">
   
-  <a href="https://discord.com/users/asxxfaq">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
+
 
   <a href="https://github.com/asxxfaq">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
@@ -44,8 +42,7 @@
 
 
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
+
 
 <br clear="all" />
 
@@ -80,7 +77,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,vscode" />
 </td>
 </tr>
 </table>
@@ -91,13 +88,5 @@
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
----
 
 
